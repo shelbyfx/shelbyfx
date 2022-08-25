@@ -8,6 +8,11 @@
 
  <img src="https://komarev.com/ghpvc/?username=shelbyfx&style=plastic" /> 
 
+<div align="center"> 
+
+     <a href="https://discord.com/users/998524641729589269" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/998524641729589269"></a> 
+
+ </div>
   
 
  I'm a near 4 year discord developer.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br> 
