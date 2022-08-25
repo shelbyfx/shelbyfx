@@ -5,6 +5,8 @@
   
 
  [![Gmail Badge](https://img.shields.io/badge/shxlby1927@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shxlby1927@gmail.com) 
+[![Discord Badge](https://img.shields.io/badge/-Shelbyfx-1e44ee?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/998524641729589269)
+
 
  <img src="https://komarev.com/ghpvc/?username=shelbyfx&style=plastic" /> 
 
